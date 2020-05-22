@@ -12,8 +12,9 @@ import javax.swing.JOptionPane;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.table.DefaultTableModel;
-import ucsc.tharukaKade.controler.CustomerController;
-import ucsc.tharukaKade.dto.CustomerDTO;
+import ucsc.Thogakade.controller.CustomerController;
+import ucsc.Thogakade.dto.CustomerDTO;
+
 
 /**
  *
